@@ -1,14 +1,14 @@
-@import "../../assets/fonts/Huge/stylesheet.css";
+@import 'https://fonts.googleapis.com/css?family=Fira+Sans';
 
-.font-huge {
-	font-family: 'HUGEAvantGardeBold', Helvetica, Arial, sans-serif;
+.font-cc {
+	font-family: 'Fira Sans', Helvetica, Arial, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 	font-weight: normal;
 }
 
 .font-galaxie {
-	font-family: 'Galaxie', Helvetica, Roboto, Arial, sans-serif;
+	font-family: 'Fira Sans', Helvetica, Roboto, Arial, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 	font-weight: normal;
@@ -19,17 +19,15 @@
 }
 
 h1 {
-	font-size: 100px;
-	line-height: 120px;
+	font-size:22px;
 }
 
 h2 {
-	font-size: 80px;
-	line-height: 92px;
+	font-size: 18px;
 }
 
 h3 {
-	font-size: 38px;
+	font-size: 16px;
 	line-height: 45px;
 }
 
@@ -38,10 +36,8 @@ h3 {
 }
 
 .p3 {
-	font-size: 15px;
-	line-height: 1.8;
-	color: #666;
-	margin-top: 3em;
+	font-size: 13px;
+	color: #555;
 }
 
 #typography {
@@ -49,7 +45,6 @@ h3 {
     margin-top: 0;
   }
   p {
-  	font: 16px/2 "Galaxie";
-  	margin: 2em 0;
+  	font: 15px/2 "Fira Sans";
   }
 }

@@ -6,10 +6,10 @@
         "fonts": [
             {
                 "heading": "1",
-                "fontName" : "HUGE Avant Garde Bold",
+                "fontName" : "Fira Sans",
                 "fontSize": "100px",
-                "className": "font-huge",
-                "title": "Hello."
+                "className": "font-cc",
+                "title": "Fira Sans is gorgeous."
             },
             {
                 "heading": "2",
